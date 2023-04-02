@@ -70,6 +70,7 @@ kubectl -n nginx-ingress get pods
 ```
 
 ```
+> Output :
 NAME READY STATUS RESTARTS AGE
 ingress-nginx-admission-create-q4hrk 0/1 Completed 0 3m23s
 ingress-nginx-admission-patch-g5kp6 0/1 Completed 1 3m22s
@@ -83,6 +84,7 @@ kubectl -n nginx-ingress get svc
 ```
 
 ```
+> Output :
 NAME                                 TYPE           CLUSTER-IP       EXTERNAL-IP                                                               PORT(S)                      AGE
 ingress-nginx-controller             LoadBalancer   10.100.175.182   a3891302e57834bce913e7d04bb94394-2063151079.us-east-1.elb.amazonaws.com   80:32592/TCP,443:31877/TCP   12m
 ingress-nginx-controller-admission   ClusterIP      10.100.200.26    <none>                                                                    443/TCP                      12m
