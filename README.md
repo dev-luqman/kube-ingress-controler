@@ -3,4 +3,4 @@
 ### Documentation Link
 
 - [Nginx Ingress Documention](https://docs.nginx.com/nginx-ingress-controller/)
-- [Nginx Ingress Helm Version](https://docs.nginx.com/nginx-ingress-controller/installation/installation-with-helm/)
+- [Nginx Ingress Helm chart Version](https://docs.nginx.com/nginx-ingress-controller/installation/installation-with-helm/)
