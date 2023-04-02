@@ -4,3 +4,11 @@
 
 - [Nginx Ingress Documention](https://docs.nginx.com/nginx-ingress-controller/)
 - [Nginx Ingress Helm chart Version](https://docs.nginx.com/nginx-ingress-controller/installation/installation-with-helm/)
+
+### Commands
+
+` helm repo add ingress-nginx https://kubernetes.github.io/ingress-nginx`
+
+```
+helm search repo ingress-nginx --version
+```
